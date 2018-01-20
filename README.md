@@ -1,0 +1,2 @@
+# miszczu
+program z kursu
